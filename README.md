@@ -1,16 +1,16 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF2E9A,50:B026FF,100:00F0FF&height=190&section=header&text=PANDITAX727&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=%3C%20Full-Stack%20Developer%20%2F%2F%20System%20Online%20%3E&descAlignY=58&descColor=F5F5F5&animation=fadeIn)](https://github.com/Panditax727)
+![Hero](https://img.shields.io/badge/PANDITAX727-Full--Stack_Developer-00F0FF?style=for-the-badge&labelColor=FF2E9A&logoColor=white)
 
-[![typing](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3200&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=35&lines=JAVA+%2B+SPRING+%2B+REACT+%2B+VUE;DEVOPS+%2B+CLOUD+%2B+SEGURIDAD;BUSCANDO+PRACTICA+2026)](https://github.com/Panditax727)
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3200&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=35&lines=JAVA+%2B+SPRING+%2B+REACT+%2B+VUE;DEVOPS+%2B+CLOUD+%2B+SEGURIDAD;BUSCANDO+PRACTICA+PROFESIONAL+2026)](https://github.com/Panditax727)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF2E9A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pizarro-8a694a3bb/)
 [![Gmail](https://img.shields.io/badge/Gmail-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanpizarro7u7@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-00F0FF?style=for-the-badge&logo=instagram&logoColor=0D0221)](https://www.instagram.com/_luthar.nc_/?hl=es)
 
-🌆 ⋆ 🌌 ⋆ 💾 ⋆ 👾 ⋆ 🎌 ⋆ 💾 ⋆ 🌌 ⋆ 🌆
-
 </div>
+
+<br>
 
 ## `> whoami`
 
@@ -104,10 +104,8 @@ Cuando no estoy programando, probablemente ando viendo anime o compitiendo en CS
 
 [![Streak](https://streak-stats.demolab.com?user=Panditax727&hide_border=true&background=0D0221&ring=FF2E9A&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=9D4EDD&sideNums=FFFFFF&dates=B0B0B0)](https://github.com/Panditax727)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Panditax727&show_icons=true&theme=synthwave&hide_border=true)](https://github.com/Panditax727)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Panditax727&layout=compact&theme=synthwave&hide_border=true)](https://github.com/Panditax727)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Panditax727&theme=radical&no-frame=true&margin-w=8&row=1&column=6)](https://github.com/Panditax727)
+[![Stats](https://github-stats-extended.vercel.app/api?username=Panditax727&show_icons=true&theme=synthwave&hide_border=true)](https://github.com/Panditax727)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Panditax727&layout=compact&theme=synthwave&hide_border=true)](https://github.com/Panditax727)
 
 </div>
 
@@ -120,10 +118,6 @@ Cuando no estoy programando, probablemente ando viendo anime o compitiendo en CS
 juanpizarro7u7@gmail.com
 ```
 
-*"Construir algo que la gente realmente usa vale más que cien demos que nadie prueba."*
-
-🌸 ⋆ 👾 ⋆ 💽 ⋆ 🕹️ ⋆ 🌸
-
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:B026FF,100:FF2E9A&height=110&section=footer)](https://github.com/Panditax727)
+*"Construir algo que la gente realmente usa vale más que cien demos que nadie prueba."* 🌸
 
 </div>
