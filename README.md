@@ -1,156 +1,109 @@
-<div align="center">
-
 ```
 ██████╗  █████╗ ███╗   ██╗██████╗ ██╗████████╗ █████╗ ██╗  ██╗
 ██╔══██╗██╔══██╗████╗  ██║██╔══██╗██║╚══██╔══╝██╔══██╗╚██╗██╔╝
-██████╔╝███████║██╔██╗ ██║██║  ██║██║   ██║   ███████║ ╚███╔╝ 
-██╔═══╝ ██╔══██║██║╚██╗██║██║  ██║██║   ██║   ██╔══██║ ██╔██╗ 
+██████╔╝███████║██╔██╗ ██║██║  ██║██║   ██║   ███████║ ╚███╔╝
+██╔═══╝ ██╔══██║██║╚██╗██║██║  ██║██║   ██║   ██╔══██║ ██╔██╗
 ██║     ██║  ██║██║ ╚████║██████╔╝██║   ██║   ██║  ██║██╔╝ ██╗
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
 
 ███████╗██████╗ ███████╗
 ╚════██║╚════██╗╚════██║
     ██╔╝ █████╔╝    ██╔╝
-   ██╔╝ ██╔═══╝    ██╔╝ 
+   ██╔╝ ██╔═══╝    ██╔╝
    ██║  ███████╗   ██║  
    ╚═╝  ╚══════╝   ╚═╝  
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&multiline=true&width=620&height=70&lines=Full-Stack+%7C+Backend+%7C+Mobile;TypeScript+%2F+React+%2F+Node+%2F+Kotlin+%2F+Java;Construyendo+cosas+reales+desde+Chile+%F0%9F%87%A8%F0%9F%87%B1" alt="typing" />
+[![typing](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&multiline=true&width=620&height=70&lines=Full-Stack+Dev+%7C+Java%2FSpring+%7C+React%2FVue;DevOps+%2B+Cloud+%2B+Seguridad;Buscando+pr%C3%A1ctica+profesional+2026)](https://github.com/Panditax727)
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230D0D0D.svg?style=for-the-badge&logo=linkedin&logoColor=00FF9C)](https://www.linkedin.com/in/juan-pizarro-8a694a3bb/)
-[![Instagram](https://img.shields.io/badge/Instagram-%230D0D0D.svg?style=for-the-badge&logo=instagram&logoColor=00FF9C)](https://www.instagram.com/_luthar.nc_/?hl=es)
-[![Gmail](https://img.shields.io/badge/Gmail-%230D0D0D.svg?style=for-the-badge&logo=gmail&logoColor=00FF9C)](mailto:juanpizarro7u7@gmail.com)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230D0D0D.svg?style=for-the-badge&logo=linkedin&logoColor=00FF9C)](https://www.linkedin.com/in/juan-pizarro-8a694a3bb/) [![Gmail](https://img.shields.io/badge/Gmail-%230D0D0D.svg?style=for-the-badge&logo=gmail&logoColor=00FF9C)](mailto:juanpizarro7u7@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%230D0D0D.svg?style=for-the-badge&logo=instagram&logoColor=00FF9C)](https://www.instagram.com/_luthar.nc_/?hl=es)
 
 ---
 
 ## `> whoami`
 
-```yaml
-alias:     Panditax727
-nombre:    Juan Pizarro
-ubicación: Chile 🇨🇱 — Duoc UC
-carrera:   Ingeniería en Informática (en formación)
-modo:      Full-Stack & Mobile — proyectos reales, no solo demos
-intereses: Backend sólido · Frontend moderno · Android · Anime/Manga
+```
+alias:      Panditax727
+nombre:     Juan Pizarro
+ubicación:  Valparaíso / Viña del Mar, Chile 🇨🇱
+carrera:    Ingeniería en Informática — Duoc UC
+buscando:   Práctica profesional — Full-Stack / DevOps / Backend
+stack:      Java · Spring Boot · React · TypeScript · MariaDB · Docker
 ```
 
-Desarrollo desde el backend hasta el cliente, pasando por mobile.  
-Me gusta construir proyectos con propósito — con arquitectura, documentación y que realmente funcionen.  
-Cuando no estoy programando, probablemente estoy viendo anime o debatiendo si el manga era mejor. 🎌
-
----
-
-## `> stack --list`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,java,spring,kotlin,androidstudio,python,mysql,postgres,git,github,docker,vscode,idea&perline=8" />
-
-</div>
+Construyo software que llega a producción, no solo demos de portafolio: autenticación real,
+migraciones de base de datos versionadas, hardening de seguridad y despliegue en la nube.
+Actualmente preparando el lanzamiento de **Consu-Almacén**, mi proyecto full-stack más grande hasta ahora.
 
 ---
 
 ## `> cat ./proyectos/estrella.md`
 
-<div align="center">
+### ⭐ Consu-Almacén
 
-### ⭐ OtakuVerdict — Backend
+> *Sistema de gestión para un almacén de barrio, de la idea a producción.*
 
-> *"¿La adaptación anime fue fiel al manga original? La comunidad decide."*
+**`Spring Boot 3.5 · Java 21 · React · MariaDB · Flyway · Docker Compose`**
 
-</div>
+Plataforma full-stack para digitalizar la operación de un almacén de barrio: catálogo con
+imágenes, pedidos de vecinos, panel administrativo y checkout como invitado con enlace directo
+a WhatsApp. Pensado para uso real por personas no técnicas, no solo como ejercicio académico.
 
-**`TypeScript · Node.js · REST API`**
+- 🔐 Autenticación JWT separada para personal administrativo y vecinos
+- 🗄️ Migraciones de esquema versionadas con Flyway (reemplazando `ddl-auto`)
+- 🖼️ Sistema completo de carga y gestión de imágenes de producto
+- 🛡️ Hardening de seguridad: CORS, rate limiting, filtros JWT por rol
+- ☁️ Desplegado en una VPS de Oracle Cloud vía túnel reverso autossh + DuckDNS + nginx/Let's Encrypt
 
-Plataforma comunitaria para que fans de anime y manga puedan **calificar la fidelidad de adaptaciones** y comparar el material fuente con su versión animada. Sistema de votación, perfiles de usuario y base de datos de títulos.
+[![Estado](https://img.shields.io/badge/Estado-Preparando_producci%C3%B3n-00FF9C?style=for-the-badge&logo=springboot&logoColor=0D0D0D)]()
+<!-- TODO: si el repo es público, reemplaza este link -->
+[![Ver Código](https://img.shields.io/badge/Repo-privado-0D0D0D?style=for-the-badge&logo=github&logoColor=00FF9C)]()
 
-[![Ver Código](https://img.shields.io/badge/Ver_Código-%230D0D0D?style=for-the-badge&logo=github&logoColor=00FF9C)](https://github.com/Panditax727/OtakuVerdict-backend)
-![TypeScript](https://img.shields.io/badge/TypeScript-%230D0D0D?style=flat-square&logo=typescript&logoColor=3178C6)
-![Stars](https://img.shields.io/github/stars/Panditax727/OtakuVerdict-backend?style=flat-square&color=00FF9C&labelColor=0D0D0D)
+---
+
+## `> stack --list`
+
+![](https://skillicons.dev/icons?i=java,spring,react,ts,js,vue,kotlin,rust,mariadb,mysql,docker,aws,linux,nginx,git,github,python,androidstudio&perline=9)
 
 ---
 
 ## `> ls ./proyectos/`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**🍗 GloritaPOS** — `Tauri v2 · Rust · Vue 3 · TypeScript · SQLite`
+Sistema POS de escritorio para un restaurante real (Pollos Doña Glorita). Módulos de auth,
+productos, mesas, inventario, caja y reportes, con pipeline CI/CD que publica releases firmados.
 
-### ⚛️ Golden Rose — React
-**`React · JavaScript · Vite`**
+**💬 Orioneta** — `Spring Boot (DDD/hexagonal) · React 19 · WebSocket/STOMP · AWS EKS`
+Chat en tiempo real estilo Discord, construido en equipo para la asignatura Fullstack III.
+Mensajería vía WebSocket, mercado interno de la app y despliegue en un cluster EKS.
 
-Frontend moderno de tienda web conectado a microservicios. Fork colaborativo con orquestación via Docker Compose.
+**🛡️ CyberMon** — `FastAPI · Scapy · React/Vite · WebSockets`
+Herramienta personal de monitoreo tipo IDS: sniffer de red, watcher de eventos de Windows,
+bot de alertas por Telegram y dashboard en vivo con mapeo GeoIP.
 
-[![Repo](https://img.shields.io/badge/Ver_Código-%230D0D0D?style=flat-square&logo=github&logoColor=00FF9C)](https://github.com/Panditax727/Golden-Rose-React)
+**📰 scraper-noticias** — `Python · Docker`
+Bot que recolecta noticias de múltiples fuentes, las filtra por relevancia y las distribuye
+automáticamente. Corriendo 24/7 en una instancia Oracle Cloud.
 
-</td>
-<td width="50%" valign="top">
+**🎌 OtakuVerdict-backend** — `TypeScript · Node.js · REST API`
+Plataforma comunitaria para calificar qué tan fiel es una adaptación anime respecto al manga.
 
-### 📱 Golden Rose — APK
-**`Kotlin · Android · Room`**
-
-App mobile de compras con catálogo local, gestión de usuarios y boletas persistentes con Room DB.
-
-[![Repo](https://img.shields.io/badge/Ver_Código-%230D0D0D?style=flat-square&logo=github&logoColor=00FF9C)](https://github.com/Panditax727/Golden-Rose-APK)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔮 Próximamente...
-**`En construcción`**
-
-Más proyectos en camino — frontend, mobile y herramientas.
-
-![WIP](https://img.shields.io/badge/En_Proceso...-%230D0D0D?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔮 Próximamente...
-**`En construcción`**
-
-Experimentos con arquitectura, APIs y más ideas en progreso.
-
-![WIP](https://img.shields.io/badge/En_Proceso...-%230D0D0D?style=flat-square)
-
-</td>
-</tr>
-</table>
+[Ver todos los repositorios →](https://github.com/Panditax727?tab=repositories)
 
 ---
 
 ## `> git stats --user=Panditax727`
 
-<div align="center">
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Panditax727&theme=matrix&hide_border=true&background=0D0D0D&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C)](https://github.com/Panditax727)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Panditax727&theme=matrix&hide_border=true&background=0D0D0D&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Panditax727&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=00FF9C&icon_color=00FF9C&text_color=CCCCCC" alt="Stats" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panditax727&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=00FF9C&text_color=CCCCCC" alt="Top Langs" />
-
-</div>
+[![Stats](https://github-readme-stats.vercel.app/api?username=Panditax727&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=00FF9C&icon_color=00FF9C&text_color=CCCCCC)](https://github.com/Panditax727)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Panditax727&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=00FF9C&text_color=CCCCCC)](https://github.com/Panditax727)
 
 ---
-
-<div align="center">
 
 ```
 [ SISTEMA EN LÍNEA — CONTACTO ABIERTO ]
 juanpizarro7u7@gmail.com
 ```
 
-*"Si el manga tenía mejor historia, la app lo va a probar con datos."*
-
-</div>
+*"Construir algo que la gente realmente usa vale más que cien demos que nadie prueba."*
