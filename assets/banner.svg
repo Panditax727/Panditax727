@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0D0221"/><stop offset=".62" stop-color="#1A0536"/><stop offset=".67" stop-color="#2A0845"/><stop offset="1" stop-color="#0D0221"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FF2E9A" stop-opacity="0"/><stop offset="1" stop-color="#FF2E9A" stop-opacity=".55"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF2E9A"/><stop offset=".55" stop-color="#9D4EDD"/><stop offset="1" stop-color="#00F0FF"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="1030" cy="214" r="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FF2E9A" stop-opacity=".55"/><stop offset="1" stop-color="#FF2E9A" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="gridmask"><rect y="214" width="1280" height="106" fill="url(#fade)"/></mask>
+    <clipPath id="c"><rect width="1280" height="320" rx="16"/></clipPath>
+    <filter id="glow" x="-10%" y="-40%" width="120%" height="180%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1280" height="320" fill="url(#sky)"/>
+    <circle cx="1030" cy="214" r="120" fill="url(#sun)"/>
+    <clipPath id="sunclip"><rect x="900" y="0" width="260" height="214"/></clipPath>
+    <linearGradient id="sunfill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFB86B"/><stop offset=".45" stop-color="#FF2E9A"/><stop offset="1" stop-color="#9D4EDD"/></linearGradient>
+    <g clip-path="url(#sunclip)">
+      <circle cx="1030" cy="200" r="74" fill="url(#sunfill)"/>
+      <rect x="950" y="166" width="160" height="3" fill="#1A0536"/>
+      <rect x="950" y="178" width="160" height="4.5" fill="#1D0639"/>
+      <rect x="950" y="190" width="160" height="6" fill="#22073F"/>
+      <rect x="950" y="203" width="160" height="8" fill="#280843"/>
+    </g>
+    <g stroke="#FF2E9A" stroke-width="1.2" mask="url(#gridmask)"><line x1="164" y1="214" x2="-1460" y2="320"/><line x1="198" y1="214" x2="-1310" y2="320"/><line x1="232" y1="214" x2="-1160" y2="320"/><line x1="266" y1="214" x2="-1010" y2="320"/><line x1="300" y1="214" x2="-860" y2="320"/><line x1="334" y1="214" x2="-710" y2="320"/><line x1="368" y1="214" x2="-560" y2="320"/><line x1="402" y1="214" x2="-410" y2="320"/><line x1="436" y1="214" x2="-260" y2="320"/><line x1="470" y1="214" x2="-110" y2="320"/><line x1="504" y1="214" x2="40" y2="320"/><line x1="538" y1="214" x2="190" y2="320"/><line x1="572" y1="214" x2="340" y2="320"/><line x1="606" y1="214" x2="490" y2="320"/><line x1="640" y1="214" x2="640" y2="320"/><line x1="674" y1="214" x2="790" y2="320"/><line x1="708" y1="214" x2="940" y2="320"/><line x1="742" y1="214" x2="1090" y2="320"/><line x1="776" y1="214" x2="1240" y2="320"/><line x1="810" y1="214" x2="1390" y2="320"/><line x1="844" y1="214" x2="1540" y2="320"/><line x1="878" y1="214" x2="1690" y2="320"/><line x1="912" y1="214" x2="1840" y2="320"/><line x1="946" y1="214" x2="1990" y2="320"/><line x1="980" y1="214" x2="2140" y2="320"/><line x1="1014" y1="214" x2="2290" y2="320"/><line x1="1048" y1="214" x2="2440" y2="320"/><line x1="1082" y1="214" x2="2590" y2="320"/><line x1="1116" y1="214" x2="2740" y2="320"/><line x1="0" y1="214.0" x2="1280" y2="214.0"/><line x1="0" y1="222.1" x2="1280" y2="222.1"/><line x1="0" y1="233.0" x2="1280" y2="233.0"/><line x1="0" y1="247.8" x2="1280" y2="247.8"/><line x1="0" y1="267.7" x2="1280" y2="267.7"/><line x1="0" y1="294.6" x2="1280" y2="294.6"/></g>
+    <line x1="0" y1="214" x2="1280" y2="214" stroke="#00F0FF" stroke-opacity=".6" stroke-width="1.5"/>
+
+    <rect x="64" y="40" width="660" height="206" rx="12" fill="#12052A" fill-opacity=".92" stroke="#3A1A63"/>
+    <rect x="64" y="40" width="660" height="34" rx="12" fill="#1C0A3A"/>
+    <rect x="64" y="62" width="660" height="12" fill="#1C0A3A"/>
+    <circle cx="86" cy="57" r="6" fill="#FF2E9A"/><circle cx="106" cy="57" r="6" fill="#9D4EDD"/><circle cx="126" cy="57" r="6" fill="#00F0FF"/>
+    <text x="394" y="62" font-size="13" fill="#8B7BB0" text-anchor="middle" font-family="Consolas, 'SF Mono', Menlo, 'Fira Code', monospace">panditax727@valparaiso: ~</text>
+
+    <text x="90" y="110" font-size="18" fill="#00F0FF" font-family="Consolas, 'SF Mono', Menlo, 'Fira Code', monospace">$ <tspan fill="#E6E1F5">whoami</tspan></text>
+    <text x="88" y="168" font-size="52" font-weight="700" fill="url(#name)" filter="url(#glow)" font-family="Consolas, 'SF Mono', Menlo, 'Fira Code', monospace">Panditax727</text>
+    <text x="90" y="206" font-size="18" fill="#E6E1F5" font-family="Consolas, 'SF Mono', Menlo, 'Fira Code', monospace">Full-Stack Developer <tspan fill="#FF2E9A">//</tspan> Backend <tspan fill="#FF2E9A">·</tspan> DevOps <tspan fill="#FF2E9A">·</tspan> Cloud</text>
+    <text x="90" y="232" font-size="15" fill="#8B7BB0" font-family="Consolas, 'SF Mono', Menlo, 'Fira Code', monospace">$ <tspan fill="#B9AED6">buscando --practica-profesional 2026</tspan></text>
+    <rect x="412" y="220" width="10" height="16" fill="#00F0FF">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5;1" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect x=".75" y=".75" width="1278.5" height="318.5" rx="15.5" fill="none" stroke="#3A1A63" stroke-width="1.5"/>
+</svg>
